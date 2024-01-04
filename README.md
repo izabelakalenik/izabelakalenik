@@ -1,10 +1,11 @@
-## Hello there! 👋
+# Hello there! 👋
 
-### About me 
+## About me 
 I'm a student of Applied Computer Science at the Wroclaw University of Science and Technology.
 
+## Technologies  
 <details>
-  <summary><b>:computer: &nbsp;Languages</b></summary>
+  <summary><b>:computer: &nbsp;Programming languages</b></summary>
   <br/>
   
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
@@ -13,8 +14,7 @@ I'm a student of Applied Computer Science at the Wroclaw University of Science a
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
   
 </details>
-
-
+ 
 <details>
   <summary><b>:gear: &nbsp;Tools</b></summary>
   <br/>
@@ -31,5 +31,5 @@ I'm a student of Applied Computer Science at the Wroclaw University of Science a
   
 </details>
 
-### Contact me 
+## Contact me 
 <a href="https://www.linkedin.com/in/izabela-kalenik-259a36298"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
