@@ -9,9 +9,10 @@ I'm a student of Applied Computer Science at the Wroclaw University of Science a
   <br/>
   
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/KOTLIN-7F2EC2.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-C42323.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C_SHARP-DD30A6.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
   
 </details>
  
