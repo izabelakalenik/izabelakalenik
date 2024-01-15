@@ -1,7 +1,7 @@
-# Hello there! 👋
+<h1 align="center"> Hello there, I'm Iza👋</h1>
 
 ## About me 
-I'm a student of Applied Computer Science at the Wroclaw University of Science and Technology.
+* I'm a student of Applied Computer Science at the Wroclaw University of Science and Technology.
 
 ## Technologies  
 <details>
