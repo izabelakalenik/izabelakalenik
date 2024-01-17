@@ -26,8 +26,10 @@ I'm a student of Applied Computer Science at the Wroclaw University of Science a
 ![VisualStudio](https://img.shields.io/badge/VISUAL_STUDIO-5C2D91.svg?&style=flat&logo=visualstudio)&nbsp;
 <br>
 ![AndroidStudio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84.svg?&style=flat&logo=androidstudio&logoColor=white)&nbsp; 
-![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp; 
+![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MONGODB-%47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp; 
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+<br>
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
   
 </details>
