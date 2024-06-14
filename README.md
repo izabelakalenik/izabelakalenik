@@ -13,7 +13,8 @@ I'm a student of Applied Computer Science at the Wroclaw University of Science a
 ![Java](https://img.shields.io/badge/JAVA-C42323.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C_SHARP-DD30A6.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
-  
+![JavaScript](https://img.shields.io/badge/JAVA_SCRIPT-F7DF1E.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
+
 </details>
  
 <details>
@@ -27,9 +28,11 @@ I'm a student of Applied Computer Science at the Wroclaw University of Science a
 <br>
 ![AndroidStudio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84.svg?&style=flat&logo=androidstudio&logoColor=white)&nbsp; 
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MONGODB-%47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp; 
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MONGODB-%47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODE_JS-5FA04E.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/VUE-4FC08D.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 <br>
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
   
 </details>
