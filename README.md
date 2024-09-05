@@ -38,4 +38,4 @@ I'm a student of Applied Computer Science at the Wroclaw University of Science a
 </details>
 
 ## Contact me 
-<a href="https://www.linkedin.com/in/izabela-kalenik-259a36298"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/izabela-kalenik/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
