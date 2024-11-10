@@ -39,9 +39,10 @@ I'm a student of Applied Computer Science at Wroclaw University of Science and T
   
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-F7346F.svg?&style=flat&logo=intellij-idea)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PYCHARM-EFF910.svg?&style=flat&logo=pycharm&logoColor=black)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84.svg?&style=flat&logo=androidstudio&logoColor=white)&nbsp;
+![CLion](https://img.shields.io/badge/CLION-000000.svg?&style=flat&logo=clion&logoColor=white)&nbsp;
 <br>
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![VisualStudio](https://img.shields.io/badge/VISUAL_STUDIO-5C2D91.svg?&style=flat&logo=visualstudio)&nbsp;
 
 </details>
