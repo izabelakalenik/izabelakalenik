@@ -30,6 +30,9 @@ I'm a student of Trusted Artificial Intelligence at Wroclaw University of Scienc
 <br>
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/LINUX-FCC624.svg?&style=flat&logo=linux&logoColor=white)&nbsp;
 </details>
 
 
