@@ -1,7 +1,9 @@
 <h1 align="center"> Hello there, I'm Iza👋</h1>
 
 ## About me 
-I'm a student of Trusted Artificial Intelligence at Wroclaw University of Science and Technology.
+I am actively developing my skills as a **Software Developer** with a primary focus on backend development. I have
+experience with technologies such as Java, Python, and JavaScript, and I am currently expanding my knowledge in
+mobile development and AI.
 
 ## Technologies  
 <details>
@@ -15,6 +17,11 @@ I'm a student of Trusted Artificial Intelligence at Wroclaw University of Scienc
 <br>
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/KOTLIN-7F2EC2.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Ionic](https://img.shields.io/badge/IONIC-3880FF.svg?&style=flat&logo=ionic&logoColor=white)&nbsp;
+![Capacitor](https://img.shields.io/badge/CAPACITOR-119EFF.svg?&style=flat&logo=capacitor&logoColor=white)&nbsp;
+<br>
+![Angular](https://img.shields.io/badge/ANGULAR-0F0F11.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C_SHARP-DD30A6.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
 </details>
@@ -23,16 +30,29 @@ I'm a student of Trusted Artificial Intelligence at Wroclaw University of Scienc
   <summary><b>:gear: &nbsp;Tools</b></summary>
   <br/>
 
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GITLAB-FC6D26.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/LINUX-FCC624.svg?&style=flat&logo=linux&logoColor=white)&nbsp;
+<br>
 ![NodeJS](https://img.shields.io/badge/NODE.JS-5FA04E.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/FIREBASE-DD2C00.svg?&style=flat&logo=firebase&logoColor=white)&nbsp; 
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-%47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
 <br>
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![Jasmine](https://img.shields.io/badge/JASMINE-8A4182.svg?&style=flat&logo=jasmine&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/JEST-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;
+![SonarQube](https://img.shields.io/badge/SONARQUBE-126ED3.svg?&style=flat&logo=sonarqubeserver&logoColor=white)&nbsp;
+![BrowserStack](https://img.shields.io/badge/BROWSERSTACK-FC8A34.svg?&style=flat&logo=browserstac&logoColor=white)&nbsp;
+<br>
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/LINUX-FCC624.svg?&style=flat&logo=linux&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/GRAFANA-F46800.svg?&style=flat&logo=grafana&logoColor=white)&nbsp;
+![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C.svg?&style=flat&logo=prometheus&logoColor=white)&nbsp;
+<br>
+![GCP](https://img.shields.io/badge/GCP-4285F4.svg?&style=flat&logo=googlecloud&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-FCC326.svg?&style=flat&logo=aws&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/TERRAFORM-844FBA.svg?&style=flat&logo=terraform&logoColor=white)&nbsp;
 </details>
 
 
